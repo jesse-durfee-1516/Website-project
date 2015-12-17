@@ -1,0 +1,92 @@
+body{
+font-family: "lucida grande" , tahoma, arian, sans-seif;
+background-color:DarkBlue;
+}
+
+#container{
+width:1080px;
+margin: 0 auto;
+padding: 1px;
+background-color:DarkBlue;
+}
+
+#navigation{
+height:60px;
+border:4px solid #e3e3e3;
+margin-top:5px;
+background-image : url(../Images/background_pict.png);
+}
+
+ul#navmenu{
+list-style-type:none;
+font-size:20px;
+}
+
+ul#navmenu li{
+width:200px;
+tex-align:center;
+float:left;
+Margin-right:4px;
+}
+ul#navmenu a {
+text-decoration:none;
+display: block;
+width: 180px;
+height:25px;
+background-color:White;
+border: 2px solid #ccc;
+border-radius: 5px;
+
+}
+#content_area{
+float:left;
+width:600px;
+margin:20px 0 20px 0;
+padding:20px;
+border: 3px solid #e3e3e3;
+color:white;
+}
+
+.imgleft{
+float: left;
+margin: 0px 10px 10px 0;
+padding:5px;
+}
+.imgright{
+float:right;
+margin: 0px 10px 10px 0;
+padding:5px;
+}
+
+#videobox{
+float:right;
+margin: 0px 10px 10px 0;
+padding:5px;
+}
+.video1{
+float: right;
+margin: 0px 10px 10px 0;
+padding:5px
+}
+.video2{
+float: right;
+margin: 0px 10px 10px 0;
+padding:5px
+}
+.video3{
+float: right;
+margin: 0px 10px 10px 0;
+padding:5px
+}
+.video4{
+float: right;
+margin: 0px 10px 10px 0;
+padding:5px
+}s
+.video5{
+float: right;
+margin: 0px 10px 10px 0;
+padding:5px
+}
+
+
